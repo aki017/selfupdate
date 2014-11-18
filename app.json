@@ -1,0 +1,7 @@
+{
+  "name": "SelfUpdater",
+  "description": "Utility for iOS OTA install",
+  "repository": "https://github.com/aki017/selfupdate",
+  "logo": "https://selfupdate.herokuapp.com/icon.png",
+  "keywords": ["iOS", "OTA", "Utility"]
+}
